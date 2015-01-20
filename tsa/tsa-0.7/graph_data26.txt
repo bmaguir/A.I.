@@ -1,0 +1,21 @@
+14-Nov-2014 22:41:33
+RngSeed: 1416004893309
+DelayedPheromone: false
+DistanceWeight: 3.0
+Evaporation: 0.5
+NumAnts: 100
+NumCities: 50
+PheromoneAmount: 1.0
+PheromoneWeight: 1.0
+XSize: 150
+YSize: 120
+
+"tick", "Best Path Length", "Avg. Path Length"
+1.0, 1116.9609241774453, 1431.0
+2.0, 897.3583589265495, 1101.0
+3.0, 889.0806213646824, 1063.0
+4.0, 843.0970984479995, 1052.0
+5.0, 839.2970465710191, 1040.0
+6.0, 839.2970465710191, 1020.0
+7.0, 839.2970465710191, 1025.0
+8.0, 839.2970465710191, 1028.0

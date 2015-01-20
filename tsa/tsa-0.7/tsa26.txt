@@ -1,0 +1,21 @@
+Timestamp: 14-Nov-2014 22:41:45
+DelayedPheromone: false
+DistanceWeight: 3.0
+Evaporation: 0.5
+NumAnts: 100
+NumCities: 50
+PheromoneAmount: 1.0
+PheromoneWeight: 1.0
+XSize: 150
+YSize: 120
+
+
+"tick","Avg. Path Lengh"
+1.0,1431.0
+2.0,1101.0
+3.0,1063.0
+4.0,1052.0
+5.0,1040.0
+6.0,1020.0
+7.0,1025.0
+8.0,1028.0
